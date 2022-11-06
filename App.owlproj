@@ -1,0 +1,9 @@
+name: Starter App
+package: dev.owl-project.starterapp
+description: OWL Github Starter App
+script: src/main.js
+page: src/index.html
+
+author: Minirius
+license: MIT
+version: 1.0.0
